@@ -11,9 +11,8 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'BlogpostController@index');
+Route::get('/blog/{slug}', [ 'uses' => 'BlogpostController@show' ]);
 
 
 Route::group(['prefix' => 'admin'], function () {
