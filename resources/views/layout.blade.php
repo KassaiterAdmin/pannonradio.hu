@@ -51,9 +51,9 @@
                 <!-- Footer Start -->
                 <div class="col-md-12 page-body footer">
                     <footer>
-                        <p>© Copyright 2016 DevBlog. All rights reserved</p>
+                        <p>© Minden jog fenntartva 2017 Pannon Rádió</p>
                         <!-- UiPasta Credit Start -->
-                        <div class="uipasta-credit">Design By <a href="http://www.uipasta.com" target="_blank">UiPasta</a></div>
+                        <div class="uipasta-credit">Created By <a href="/" target="_blank">Z-Poc</a></div>
                         <!-- UiPasta Credit End -->
                     </footer>
                 </div>
