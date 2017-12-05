@@ -126,14 +126,14 @@ return [
         /*
          * Select default language
          */
-        'default' => 'en',
+        'default' => 'hu',
 
         /*
          * Select languages that are supported.
          */
         'locales' => [
             'en',
-            //'pt',
+            'hu',
         ],
     ],
 

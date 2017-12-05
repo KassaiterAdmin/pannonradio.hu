@@ -14,7 +14,7 @@
                 </span>
             </div>
             <div class="post-info">
-                <span>December 6, 2016 / írta <span class="author">Pajor András atya</span></span>
+                <span>Dec 6, 2016 </span>
             </div>
             <p>
                 Ahogyan az egykori, igazi Pannon Rádió meghasonlott főemberei komoly erőkkel igyekeztek hallgatóimmal elfeledtetni az elmúlt évek alatt, és úgy emlékezni a rádióra, mintha soha, a közelében sem lettem volna, úgy a rádió domain-neve is parlagon hevert hosszú idő óta, én pedig azért vettem meg, mert méltatlannak éreztem ezt a semmivé válást. Nem, nem keresem se ennek, se annak a felelőseit, csak emlékezni szeretnék a hőskorra egy olyan oldalon, amely még valamennyire egybe tudja gyűjteni az egykori rajongókat, akik közül nekem nagyon sok barátság, sőt jeles munkatársi kör is adódott.

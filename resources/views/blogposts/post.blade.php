@@ -6,7 +6,7 @@
         </a>
     </div>
     <div class="post-info">
-        <span>{{ $blogpost->created_at }} / írta: <span class="author">{{ $blogpost->author }}</span></span>
+        <span>{{ $blogpost->created_at->toFormattedDateString() }}</span>
     </div>
     <div class="post-image">
         <img src="{{ $blogpost->image }}" alt="">

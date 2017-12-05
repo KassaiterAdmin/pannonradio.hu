@@ -13,7 +13,7 @@
             </div>
 
             <div class="post-info">
-                <span>November 23, 2016 / írta <span class="author">{{ $slug->author }}</span></span>
+                <span>{{ $slug->created_at->toFormattedDateString() }}</span>
             </div>
 
             {!! $slug->body !!}
